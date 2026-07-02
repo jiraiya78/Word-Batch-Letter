@@ -1,5 +1,5 @@
 # Word-Batch-Letter Prints PDF
-basically the same as Word internal mail merge function but work as external and easier technical barrier.
+Basically the same as Word internal mail merge function but work as external tool and simpler.
 
 <a href="https://github.com/jiraiya78/Word-Batch-Letter/releases/download/alpha/WordBatchLetter.exe">Download</a>
 
